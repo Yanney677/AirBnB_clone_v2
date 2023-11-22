@@ -141,7 +141,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 Authors ✒️
 
     Bright Selorm Djogatse <dblay112>
-    William Yanney <williamyanney>
+    William Yanney <williasmyanney>
 
 ```
 <br>
